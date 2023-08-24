@@ -1,2 +1,2 @@
 # EDA-Projects
-It consist of all the EDA projects
+Analyzed Aerofit Data for Customers profiling
